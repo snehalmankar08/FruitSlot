@@ -1,0 +1,16 @@
+# Unity auto-generated folders
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+Builds/
+UserSettings/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
