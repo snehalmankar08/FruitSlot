@@ -58,7 +58,7 @@ How to Run the Project
 
 Gameplay Demo
 
-[Gameplay Preview]  (FruitSlotMachine-SampleScene-WindowsMacLinux-Unity2021.3.45f1Personal_DX11_2026-01-1213-40-49-ezgif.com-video-to-gif-converter.mp4)
+[Gameplay Preview](media/FruitSlotMachine-SampleScene-Gif.mp4)
 
 
 
