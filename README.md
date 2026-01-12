@@ -56,6 +56,4 @@ How to Run the Project
 4. Open 'SampleScene'
 5. Click "Play"
 
-License
-This project is for learning and educational purposes.
 
