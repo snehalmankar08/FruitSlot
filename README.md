@@ -56,4 +56,9 @@ How to Run the Project
 4. Open 'SampleScene'
 5. Click "Play"
 
+Gameplay Demo
+
+[Gameplay Preview]  (FruitSlotMachine-SampleScene-WindowsMacLinux-Unity2021.3.45f1Personal_DX11_2026-01-1213-40-49-ezgif.com-video-to-gif-converter.mp4)
+
+
 
